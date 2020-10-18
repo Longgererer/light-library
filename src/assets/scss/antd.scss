@@ -1,0 +1,16 @@
+@import './base.scss';
+.ant-input,
+.ant-btn {
+  font-family: $font !important;
+  font-weight: 400;
+}
+.ant-form-item-label {
+  padding-bottom: 5px !important;
+}
+.ant-select-selection-selected-value {
+  font-size: 14px !important;
+  padding: 0 5px;
+}
+.ant-input-lg {
+  font-size: 14px !important;
+}
